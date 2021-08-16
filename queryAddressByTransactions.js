@@ -1,9 +1,9 @@
 // const Web3 = require("web3");
 const axios = require("axios");
 const lodash = require("lodash");
-const web3 = new Web3(
-  new Web3.providers.HttpProvider("https://exchaintestrpc.okex.org")
-);
+// const web3 = new Web3(
+//   new Web3.providers.HttpProvider("https://exchaintestrpc.okex.org")
+// );
 const cTokenList = [
   {
     currency: "USDK",
